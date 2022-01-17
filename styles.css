@@ -168,5 +168,5 @@ table tr td {white-space: pre-wrap;
     background-color: rgb(147, 245, 147);
     font-family: sans-serif, Georgia, Times, 'Times New Roman', serif;
     border: 1px solid rgb(2, 41, 2);
-    border-radius: 10%;
+    border-radius: 5px;
     box-shadow: 7px 7px 20px  black;}
